@@ -1,3 +1,25 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+.pub/
+build/
+android/app/build/
+ios/Pods/
+macos/Pods/
+
+# VSCode
+.vscode/
+.idea/
+
+# Others
+*.log
+*.tmp
+*.DS_Store
+
+
+
+
+
 # Miscellaneous
 *.class
 *.log
